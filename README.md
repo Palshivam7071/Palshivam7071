@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Palshivam7071
+- 👋 Hi, I’m Shivam Pal
+- 🌱 I’m currently Working MERN full stack development At Cosmic Fusion Labs Pvt Limited
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Angular full stack development 
-- 💞️ I’m looking to collaborate on MNC's company
-- 📫 How to reach me 
+- 💞️ I’m looking to collaborate.
+- 📫 How to reach me "https://shivam-pal-dev.vercel.app/"
 
 <!---
 Palshivam7071/Palshivam7071 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
